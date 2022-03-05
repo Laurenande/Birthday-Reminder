@@ -1,0 +1,75 @@
+
+/* Class = "UITextField"; placeholder = "Добавить"; ObjectID = "1OX-Wl-bSb"; */
+"1OX-Wl-bSb.placeholder" = "Добавить";
+
+/* Class = "UILabel"; text = "Дата"; ObjectID = "7EI-yE-aO6"; */
+"7EI-yE-aO6.text" = "Дата";
+
+/* Class = "UIButton"; configuration.title = "Изменить фото"; ObjectID = "7e3-Cn-eln"; */
+"7e3-Cn-eln.configuration.title" = "Изменить фото";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7e3-Cn-eln"; */
+"7e3-Cn-eln.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Добавить"; ObjectID = "9jV-Yp-NET"; */
+"9jV-Yp-NET.placeholder" = "Добавить";
+
+/* Class = "UILabel"; text = "Instagram"; ObjectID = "9rc-cP-TFq"; */
+"9rc-cP-TFq.text" = "Instagram";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Aty-WX-LgM"; */
+"Aty-WX-LgM.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "Добавить"; ObjectID = "D5e-zD-eg4"; */
+"D5e-zD-eg4.placeholder" = "Добавить";
+
+/* Class = "UILabel"; text = "Вход по Face ID"; ObjectID = "JYS-3L-Ueh"; */
+"JYS-3L-Ueh.text" = "Вход по Face ID";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "Klr-Ia-xDL"; */
+"Klr-Ia-xDL.text" = "Sign In";
+
+/* Class = "UIButton"; configuration.title = "Добавить"; ObjectID = "VRC-NI-Kvo"; */
+"VRC-NI-Kvo.configuration.title" = "Добавить";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VRC-NI-Kvo"; */
+"VRC-NI-Kvo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Имя"; ObjectID = "YBb-bv-JCL"; */
+"YBb-bv-JCL.text" = "Имя";
+
+/* Class = "UITextField"; placeholder = "Введите имя"; ObjectID = "cVm-zc-nia"; */
+"cVm-zc-nia.placeholder" = "Введите имя";
+
+/* Class = "UIButton"; configuration.title = "Отмена"; ObjectID = "dhe-MY-lMU"; */
+"dhe-MY-lMU.configuration.title" = "Отмена";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dhe-MY-lMU"; */
+"dhe-MY-lMU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "eBl-76-zIO"; */
+"eBl-76-zIO.text" = "Password";
+
+/* Class = "UILabel"; text = "Пол"; ObjectID = "gto-Zh-cJ7"; */
+"gto-Zh-cJ7.text" = "Пол";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "hls-jz-CfF"; */
+"hls-jz-CfF.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "o2C-49-WLi"; */
+"o2C-49-WLi.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o2C-49-WLi"; */
+"o2C-49-WLi.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Введите дату"; ObjectID = "pr2-Ca-Qj1"; */
+"pr2-Ca-Qj1.placeholder" = "Введите дату";
+
+/* Class = "UILabel"; text = "Возраст"; ObjectID = "qRf-ZB-Wpa"; */
+"qRf-ZB-Wpa.text" = "Возраст";
+
+/* Class = "UINavigationItem"; title = "Birthday"; ObjectID = "tNN-LQ-ff1"; */
+"tNN-LQ-ff1.title" = "Birthday";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yNM-6m-bTK"; */
+"yNM-6m-bTK.normalTitle" = "Button";
